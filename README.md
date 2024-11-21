@@ -3,12 +3,12 @@
 # Team Kasturi Ram College of Higher Education
 
 # Team Members-
-Aryan Singh Thakur
-Garima Jain
-L.Anjana Devi
-Sneha Kohli
-Aayan Mirza
-Vasundhara Manchanda
+Aryan Singh Thakur<br>
+Garima Jain<br>
+L.Anjana Devi<br>
+Sneha Kohli<br>
+Aayan Mirza<br>
+Vasundhara Manchanda<br>
 
 # Project Name:
 Student Innovation(Software)
@@ -18,7 +18,7 @@ A solution/idea that can boost the current situation of the tourism industries i
 Software-Travel & Tourism (Industry Personnel).
 
 # Solution Proposed
-Idea: A tours and travels website offering personalized itineraries, secure bookings, real-time deals, user reviews, and eco-friendly travel options with 24/7 customer support.
+<b>Idea: </b> A tours and travels website offering personalized itineraries, secure bookings, real-time deals, user reviews, and eco-friendly travel options with 24/7 customer support.
 
 *JourneyPlanner: The Smart Travel Solution*
 
@@ -28,21 +28,30 @@ JourneyPlanner provides a smooth and customised journey by offering features suc
 which is powered by AI and has 24/7 customer service, improves how travellers investigate and organise their experiences.
 
 # Tech Stack Used
-*FrontEnd*
+<pre>
+<b>FrontEnd</b>
       HTML5
       CSS 
       JavaScript ES5
-*BackEnd*
+<b>BackEnd</b>
       Nodejs
       MongoDB
-*Framework*
+<b>Framework</b>
       Bootstrap
       Express
       API
-*AI(Artificial Intelligence)*
+<b>AI(Artificial Intelligence)</b>
       Python
+</pre>
 
 # Approach Details
 # Screenshots
-![WhatsApp Image 2024-11-22 at 00 58 20_16a3f34f](https://github.com/user-attachments/assets/949a310a-c0d0-4e7d-8c57-0fc73407b16b)
+![JourneyPlanner 1](https://github.com/user-attachments/assets/85faa603-9fe6-48a2-86f4-4e70890cfc67)
+![JourneyPlanner 2](https://github.com/user-attachments/assets/fc5f3763-47c0-4eff-9c8f-63d355b31b6e)
+![JourneyPlanner 3](https://github.com/user-attachments/assets/c8e1f01f-f1e2-456b-b04b-1a90e1f496f4)
+
+
+
+
+
 
