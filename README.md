@@ -1,5 +1,5 @@
 # Smart-India-Hackathon-2024
-  
+
 # Team Kasturi Ram College of Higher Education
 
 # Team Members-
