@@ -28,7 +28,7 @@ JourneyPlanner provides a smooth and customised journey by offering features suc
 which is powered by AI and has 24/7 customer service, improves how travellers investigate and organise their experiences.
 
 # Tech Stack Used
-<pre><b>FrontEnd</b>
+<b>FrontEnd</b>
       HTML5
       CSS 
       JavaScript ES5
@@ -41,7 +41,6 @@ which is powered by AI and has 24/7 customer service, improves how travellers in
       API
 <b>AI(Artificial Intelligence)</b>
       Python
-</pre>
 
 # Approach Details
 # Screenshots
